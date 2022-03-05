@@ -1,0 +1,17 @@
+7 colour background
+---
+1 base image of the shape - poop shape 
+---
+7 images of colors in the same base shape - poop shape
+----
+5 eyes layers 
+5 head gears - cap , hair , etc
+5 mounth animation -- expressions 
+
+1st iteration
+--------
+3 background
+1 poop 
+3 eyes
+3 expressions
+---------
